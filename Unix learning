@@ -1,0 +1,8 @@
+#The basic Unix commend
+cd
+ls
+mkdir
+mv
+touch
+awk
+uniq
